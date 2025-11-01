@@ -1,3 +1,6 @@
+using System;
+using System.Windows.Forms;
+
 namespace Text_editor
 {
     public partial class Form1 : Form
