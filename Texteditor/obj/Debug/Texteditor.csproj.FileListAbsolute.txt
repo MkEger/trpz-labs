@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\obj\Debug\Texteditor.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\obj\Debug\Texteditor.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\obj\Debug\Texteditor.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\obj\Debug\Texteditor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\bin\Debug\Texteditor.exe.config
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\bin\Debug\Texteditor.exe
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\bin\Debug\Texteditor.pdb
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\obj\Debug\Texteditor.exe
+C:\Users\Lenovo\source\repos\Texteditor\Texteditor\obj\Debug\Texteditor.pdb
